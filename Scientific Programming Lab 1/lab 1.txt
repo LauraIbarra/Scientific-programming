@@ -1,1 +1,0 @@
-Folder containing the development of Scientific Programming Lab 1.
