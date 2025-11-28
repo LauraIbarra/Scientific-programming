@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1,ROC_AUC
+Baseline,0.759,0.0,0.0,0.0,0.5
+Logistic Regression,0.966,1.0,0.857,0.923,1.0
+kNN (k=5),0.931,1.0,0.714,0.833,0.981
